@@ -9,6 +9,7 @@
         <img alt="Prometheus" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"/>
         <img alt="Grafana" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/>
         <img alt="InfluxDB" width="50px" src="InfluxDB.png"/>
+        <img alt="Telegraf" width="50px" src="Telegraf.png"/>
         <img alt="Azure" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
     </kbd>
   </p>
