@@ -17,7 +17,6 @@
     </kbd>
   </p>
 </div>
-<br />
 
 ### Languages and Tools
 <div>
