@@ -8,12 +8,12 @@
 <div>
   <p style="display: inline-block;" align="center">
     <kbd>
-        <img alt="Prometheus" style="padding-right:10px;" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"/>
-        <img alt="Grafana" style="padding-right:10px;" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/>
-        <img alt="InfluxDB" style="padding-right:10px;" width="60px" src="InfluxDB.png"/>
-        <img alt="Telegraf" style="padding-right:10px;" width="60px" src="Telegraf.png"/>
-        <img alt="Thanos" style="padding-right:10px;" width="60px" src="Thanos.png"/>
-        <img alt="Azure" style="padding-right:10px;" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
+        <img alt="Prometheus" style="padding-right:30px;" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"/>
+        <img alt="Grafana" style="padding-right:30px;" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/>
+        <img alt="InfluxDB" style="padding-right:30px;" width="60px" src="InfluxDB.png"/>
+        <img alt="Telegraf" style="padding-right:30px;" width="60px" src="Telegraf.png"/>
+        <img alt="Thanos" style="padding-right:30px;" width="60px" src="Thanos.png"/>
+        <img alt="Azure" style="padding-right:30px;" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
     </kbd>
   </p>
 </div>
