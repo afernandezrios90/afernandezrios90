@@ -1,7 +1,7 @@
 # Ángel Fernández Ríos
 
 ## About me
-After finishing my grade in Telecom Engineering, I started working as a software consultant, where I discovered what monitoring tools are and what value they could bring to an organization. After years deploying and customizing software solutions to serve specific needs, I figured out that new paradigms (virtualization, containerization, cloud journeys, automation) force organizations to have complex ecosystems in constant evolution, so a more holistic approach is needed when it comes to monitoring. That is when the concept of 'Observability Platform' appears, where a set of tools provide visibility of all technologic layers the simplest way possible.
+After finishing my grade in Telecom Engineering, I started working as a software consultant, where I discovered what monitoring tools are and what value they could bring to an organization. After years deploying and customizing solutions to serve specific needs, I figured out that new paradigms (virtualization, containerization, cloud journeys, automation) force organizations to have complex ecosystems in constant evolution, so a more holistic approach is needed when it comes to monitoring. That is when the concept of 'Observability Platform' appears, where a combination of tools provide visibility of all technologic layers the simplest way possible.
 
 I work to design a the best observability platform possible in any kind of combination of ecosystems, on-premise, private cloud, public cloud or hybrid cloud.
 
