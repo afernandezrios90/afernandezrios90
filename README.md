@@ -26,6 +26,7 @@
       <br>
       <br>
         <img alt="Azure" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
+        <img alt="IBM Cloud" width="35px" src="IBMCloud.png"/>
         <img alt="Docker" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
         <img alt="Kubernetes" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
         <img alt="Terraform" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"/>
