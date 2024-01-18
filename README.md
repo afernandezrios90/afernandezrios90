@@ -1,6 +1,7 @@
 # Ángel Fernández Ríos
 
 **`Cloud Observability Architect`**
+---
 
 ### Tech Stack
 <div>
