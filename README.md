@@ -4,17 +4,6 @@
 
 ---
 
-### My badges
-<div>
-  <p style="display: inline-block;" align="center">
-    <kbd>
-        <img alt="Prometheus Certified Associate" style="padding-right:30px;" width="60px" src="PCA.png"/>
-        <img alt="AZ-900" style="padding-right:30px;" width="60px" src="AZ_900.png"/>
-        <img alt="DevOps" style="padding-right:30px;" width="60px" src="DevOps.png"/>
-    </kbd>
-  </p>
-</div>
-
 ### My Tech Stack
 <div>
   <p style="display: inline-block;" align="center">
@@ -71,6 +60,17 @@
       <br>
         <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
         <img alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+    </kbd>
+  </p>
+</div>
+
+### My badges
+<div>
+  <p style="display: inline-block;" align="center">
+    <kbd>
+        <img alt="Prometheus Certified Associate" style="padding-right:30px;" width="100px" src="PCA.png"/>
+        <img alt="AZ-900" style="padding-right:30px;" width="100px" src="AZ_900.png"/>
+        <img alt="DevOps" style="padding-right:30px;" width="100px" src="DevOps.png"/>
     </kbd>
   </p>
 </div>
