@@ -79,3 +79,9 @@ I like to work with on open-source solutions, but leveraging as well any valuabl
     </kbd>
   </p>
 </div>
+
+## What can you expect from this repo?
+I am far for being a pure software developer, so in this repo you will find my particular bits of information or code for testing specific technologies or use cases. Some examples:
+- Custom Prometheus Exporters
+- Small scripts or programs for testing environment (e.g: script to simulate metrics from a technology)
+- Some relevant notes, schemas, o documentation 
