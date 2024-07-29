@@ -73,6 +73,7 @@ I like to work with on open-source solutions, but leveraging as well any valuabl
 <div>
   <p style="display: inline-block;" align="center">
     <kbd>
+        <img alt="Kubernetes and Cloud Native Associate" width="100px" src="KCNA_badge.png"/>
         <img alt="Prometheus Certified Associate" width="100px" src="PCA.png"/>
         <img alt="AZ-104" width="100px" src="AZ_104.svg"/>
         <img alt="DevOps" width="100px" src="DevOps.png"/>
