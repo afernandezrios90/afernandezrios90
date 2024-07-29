@@ -1,9 +1,11 @@
 # Ángel Fernández Ríos
 
 ## About me
-After finishing my grade in Telecom Engineering, I started working as a software consultant, where I discovered what monitoring tools are and what value they could bring to an organization. After years deploying and customizing solutions to serve specific needs, I figured out that new paradigms (virtualization, containerization, cloud journeys, automation) force organizations to have complex ecosystems in constant evolution, so a more holistic approach is needed when it comes to monitoring. That is when the concept of 'Observability Platform' appears, where a combination of tools provide full visibility of all technologic layers the simplest way possible.
+Hi! I am an Observability Architect based in Cantabria, Spain. My professional career has been tightly linked with monitoring and observability tools since my first steps in the "real world" after graduating in Telecom Engineering in 2014.
 
-I work to design the best observability platform possible for either on-premise, private cloud, public cloud or hybrid cloud systems.
+I have had different roles, from software consultant to event manager, which gave me a holistic approach to IT ecosystems and operations. Throughout the years I realized what monitoring tools are, what value they could provide, and more importantly, what are the challenges organizations must fase when the new paradigms (virtualization, containerization, cloud journeys, automation) come into play.
+
+I work to design the most efficient and reliable observability platform possible for on-premise, private cloud, public cloud or hybrid cloud systems.
 
 I like to work with on open-source solutions, but leveraging as well any valuable functionality offered by propietary solutions or the cloud providers themselves.
 
