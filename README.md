@@ -1,13 +1,15 @@
 # Ángel Fernández Ríos
 
 ## About me
-Hi! I am an Observability Architect based in Cantabria, Spain. My professional career has been tightly linked with monitoring and observability tools since my first steps in the "real world" after graduating in Telecom Engineering in 2014.
+Hi! I am an Observability Architect based in Cantabria, Spain. My professional career has been closely linked with monitoring and observability tools since I took my first steps in the "real world" after graduating in Telecom Engineering in 2014.
 
-I have had different roles, from software consultant to event manager, which gave me a holistic approach to IT ecosystems and operations. Throughout the years I realized what monitoring tools are, what value they could provide, and more importantly, what are the challenges organizations must fase when the new paradigms (virtualization, containerization, cloud journeys, automation) come into play.
+I specialize in designing and implementing observability platforms to optimize the performance of critical systems and applications. Having worked across a wide range of industries, I've encountered a wide variety of use cases that helped me refine my toolset and my approach to designing the best solution for each situation.
 
-I work to design the most efficient and reliable observability platform possible for on-premise, private cloud, public cloud or hybrid cloud systems.
+Throughout the years I realized what monitoring tools are, what value they could provide, and -most importantly- what are the challenges organizations face when adopting the new paradigms (virtualization, containerization, cloud journeys, automation) come into play.
 
-I like to work with on open-source solutions, but leveraging as well any valuable functionality offered by propietary solutions or the cloud providers themselves.
+I enjoy working with on open-source solutions, but leveraging as well any valuable functionality that propietary solutions or cloud providers can offer. After all, if I have a tool at my disposal, why not use it?
+
+Although coming from a technical world, my interest lies not only in technical design and execution but also in developing strategies that drive the long-term adoption of tools and technologies.
 
 ## My Tech Stack
 ### Observability tools 
