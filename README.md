@@ -87,6 +87,10 @@ Although coming from a technical world, my interest lies not only in technical d
 
 ## What can you expect from this repo?
 I am far for being a pure software developer, so in this repo you will find my particular bits of information or code for testing specific technologies or use cases. Some examples:
-- Custom Prometheus Exporters
+- Small demo deployments of a bunch of observability tools (e.g: Grafana, Loki, Prometheus, etc)
 - Small scripts or programs for testing environment (e.g: script to simulate metrics from a technology)
 - Some relevant notes, schemas, o documentation 
+
+## Repos I am actively working on
+- [afernandezrios90/loki-demo](https://github.com/afernandezrios90/loki-demo) --> A really simple deployment to test basic Loki Functionality
+- [afernandezrios90/prometheus-demo](https://github.com/afernandezrios90/prometheus-demo) --> A really simple deployment to test basic Prometheus Functionality
